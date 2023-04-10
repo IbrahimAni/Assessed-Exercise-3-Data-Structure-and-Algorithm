@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Assessment 3 Task C\Assessment 3 Task C\bin\Debug\Assessment 3 Task C.exe.config
+C:\Users\Admin\source\repos\Assessment 3 Task C\Assessment 3 Task C\bin\Debug\Assessment 3 Task C.exe
+C:\Users\Admin\source\repos\Assessment 3 Task C\Assessment 3 Task C\bin\Debug\Assessment 3 Task C.pdb
+C:\Users\Admin\source\repos\Assessment 3 Task C\Assessment 3 Task C\obj\Debug\Assessment 3 Task C.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Assessment 3 Task C\Assessment 3 Task C\obj\Debug\Assessment 3 Task C.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Assessment 3 Task C\Assessment 3 Task C\obj\Debug\Assessment_3_Task_C.Form1.resources
+C:\Users\Admin\source\repos\Assessment 3 Task C\Assessment 3 Task C\obj\Debug\Assessment_3_Task_C.Properties.Resources.resources
+C:\Users\Admin\source\repos\Assessment 3 Task C\Assessment 3 Task C\obj\Debug\Assessment 3 Task C.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Assessment 3 Task C\Assessment 3 Task C\obj\Debug\Assessment 3 Task C.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Assessment 3 Task C\Assessment 3 Task C\obj\Debug\Assessment 3 Task C.exe
+C:\Users\Admin\source\repos\Assessment 3 Task C\Assessment 3 Task C\obj\Debug\Assessment 3 Task C.pdb
